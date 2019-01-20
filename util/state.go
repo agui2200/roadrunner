@@ -2,8 +2,8 @@ package util
 
 import (
 	"errors"
+	"github.com/agui2200/roadrunner"
 	"github.com/shirou/gopsutil/process"
-	"github.com/spiral/roadrunner"
 )
 
 // State provides information about specific worker.

@@ -2,7 +2,7 @@ package rpc
 
 import (
 	"encoding/json"
-	"github.com/spiral/roadrunner/service"
+	"github.com/agui2200/roadrunner/service"
 	"github.com/stretchr/testify/assert"
 	"runtime"
 	"testing"

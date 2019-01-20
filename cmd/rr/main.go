@@ -23,17 +23,17 @@
 package main
 
 import (
+	rr "github.com/agui2200/roadrunner/cmd/rr/cmd"
 	"github.com/sirupsen/logrus"
-	rr "github.com/spiral/roadrunner/cmd/rr/cmd"
 
 	// services (plugins)
-	"github.com/spiral/roadrunner/service/env"
-	"github.com/spiral/roadrunner/service/http"
-	"github.com/spiral/roadrunner/service/rpc"
-	"github.com/spiral/roadrunner/service/static"
+	"github.com/agui2200/roadrunner/service/env"
+	"github.com/agui2200/roadrunner/service/http"
+	"github.com/agui2200/roadrunner/service/rpc"
+	"github.com/agui2200/roadrunner/service/static"
 
 	// additional commands and debug handlers
-	_ "github.com/spiral/roadrunner/cmd/rr/http"
+	_ "github.com/agui2200/roadrunner/cmd/rr/http"
 )
 
 func main() {

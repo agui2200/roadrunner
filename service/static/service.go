@@ -1,7 +1,7 @@
 package static
 
 import (
-	rrhttp "github.com/spiral/roadrunner/service/http"
+	rrhttp "github.com/agui2200/roadrunner/service/http"
 	"net/http"
 	"path"
 )

@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"github.com/spiral/roadrunner/service/env"
+	"github.com/agui2200/roadrunner/service/env"
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"

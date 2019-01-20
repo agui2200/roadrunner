@@ -2,8 +2,8 @@ package util
 
 import (
 	"errors"
-	"github.com/spiral/roadrunner/service"
-	rrpc "github.com/spiral/roadrunner/service/rpc"
+	"github.com/agui2200/roadrunner/service"
+	rrpc "github.com/agui2200/roadrunner/service/rpc"
 	"net/rpc"
 )
 

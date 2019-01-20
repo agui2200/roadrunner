@@ -2,7 +2,7 @@ package static
 
 import (
 	"fmt"
-	"github.com/spiral/roadrunner/service"
+	"github.com/agui2200/roadrunner/service"
 	"os"
 	"path"
 	"strings"

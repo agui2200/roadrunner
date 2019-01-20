@@ -21,10 +21,10 @@
 package cmd
 
 import (
+	"github.com/agui2200/roadrunner/cmd/util"
+	"github.com/agui2200/roadrunner/service"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
-	"github.com/spiral/roadrunner/cmd/util"
-	"github.com/spiral/roadrunner/service"
 	"os"
 )
 

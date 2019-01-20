@@ -1,7 +1,7 @@
 package env
 
 import (
-	"github.com/spiral/roadrunner/service"
+	"github.com/agui2200/roadrunner/service"
 )
 
 // Config defines set of env values for RR workers.

@@ -6,7 +6,7 @@ import (
 	"crypto/md5"
 	"encoding/hex"
 	"encoding/json"
-	"github.com/spiral/roadrunner"
+	"github.com/agui2200/roadrunner"
 	"github.com/stretchr/testify/assert"
 	"io"
 	"io/ioutil"

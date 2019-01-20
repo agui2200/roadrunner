@@ -3,8 +3,8 @@ package http
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/spiral/roadrunner"
-	"github.com/spiral/roadrunner/service/http/attributes"
+	"github.com/agui2200/roadrunner"
+	"github.com/agui2200/roadrunner/service/http/attributes"
 	"io/ioutil"
 	"net"
 	"net/http"

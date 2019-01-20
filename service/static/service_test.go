@@ -3,10 +3,10 @@ package static
 import (
 	"bytes"
 	"encoding/json"
+	"github.com/agui2200/roadrunner/service"
+	rrhttp "github.com/agui2200/roadrunner/service/http"
 	"github.com/sirupsen/logrus"
 	"github.com/sirupsen/logrus/hooks/test"
-	"github.com/spiral/roadrunner/service"
-	rrhttp "github.com/spiral/roadrunner/service/http"
 	"github.com/stretchr/testify/assert"
 	"io"
 	"io/ioutil"

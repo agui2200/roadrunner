@@ -2,9 +2,9 @@ package http
 
 import (
 	"crypto/tls"
+	"github.com/agui2200/roadrunner/service"
 	"github.com/sirupsen/logrus"
 	"github.com/sirupsen/logrus/hooks/test"
-	"github.com/spiral/roadrunner/service"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"
 	"net/http"
